@@ -7,7 +7,7 @@ export default function RevealScreen() {
       <Text style={styles.headerText}>Here is your Fortune!</Text>
       <Image
         source={{
-          uri: "https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQarJlqCxZ8swcgkDNWHV82hEdGeyVkoDS6xdYgr7oRAi_RYuhU5kWKr8&s=10",
+          uri: "https://images.pixels.com/images/artworkimages/mediumlarge/1/fortune-teller-steve-hartwell.jpg",
         }}
         style={styles.image}
       />

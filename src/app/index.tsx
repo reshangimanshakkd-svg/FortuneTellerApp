@@ -7,7 +7,7 @@ export default function HomeScreen() {
       <Text style={styles.headerText}>FORTUNE TELLER</Text>
       <Image
         source={{
-          uri: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUPTWkOWivTnxPVCyX19Va-HRR9AFG9C0xp20kx1fW17COAJT-J_ngs&s=10",
+          uri: "https://images.pixels.com/images/artworkimages/mediumlarge/3/1-fortune-teller-crystal-ball-nikolay-todorov.jpg",
         }}
         style={styles.image}
       />
